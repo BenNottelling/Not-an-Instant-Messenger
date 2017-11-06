@@ -1,0 +1,10 @@
+body {
+    background-color: white;
+}
+p {
+	color:black;
+    font-size: 15px;
+	border-width:1px;  
+    border-style:dashed;
+	background-color: Aquamarine;
+}
